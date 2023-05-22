@@ -1,5 +1,5 @@
-site_name: 
-site_description: 
+site_name: foloowme test
+site_description: test
 
 nav:
   - Introduction: index.md
