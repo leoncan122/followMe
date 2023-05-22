@@ -1,5 +1,5 @@
-site-name: 
-site-description: 
+site_name: 
+site_description: 
 
 nav:
   - Introduction: index.md
