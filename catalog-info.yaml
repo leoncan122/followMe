@@ -17,5 +17,5 @@ locations:
     - allow: [Component, System, API, Resource, Location]
   locations:
      - type: file
-       target: ./apis/openapi-example.yaml
+       target: apis/openapi-example.yaml
   
