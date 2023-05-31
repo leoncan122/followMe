@@ -8,5 +8,6 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  consumesApis: ['openapi-example', 'hello-world']
-
+  consumesApis:
+    - openapi-example
+    - hello-world
