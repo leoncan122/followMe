@@ -8,14 +8,4 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
- 
-locations:
-  import:
-    entityFilename: catalog-info.yaml
-    pullRequestBranchName: backstage-integration
-  rules:
-    - allow: [Component, System, API, Resource, Location]
-  locations:
-     - type: file
-       target: apis/openapi-example.yaml
-  
+
