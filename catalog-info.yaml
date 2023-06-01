@@ -4,7 +4,7 @@ metadata:
   name: "FollowtheLider"
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: value
+    github.com/project-slug: leoncan122/followMe
 spec:
   type: service
   owner: user:guest
